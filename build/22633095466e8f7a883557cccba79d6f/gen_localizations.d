@@ -1,0 +1,1 @@
+ /Users/ravindrakumawat/Desktop/screenshots/vastram/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/ravindrakumawat/Desktop/screenshots/vastram/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/ravindrakumawat/Desktop/screenshots/vastram/l10n.yaml /Users/ravindrakumawat/Desktop/screenshots/vastram/lib/src/localization/app_en.arb
